@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NA_DEGEN_GIRL",
   "VITE_SEO_SITE_NAME": "NA PERP DEX",
   "VITE_SEO_SITE_DESCRIPTION": "뭐 시발아",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/nadex-8705/",
+  "VITE_SEO_SITE_URL": "https://naperpdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
