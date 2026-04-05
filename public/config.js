@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "na-degen-girl",
   "VITE_ORDERLY_BROKER_NAME": "nadex",
   "VITE_BROKER_EOA_ADDRESS": "0xba55bdbf959df826da6c35487eb15fad2164662d",
   "VITE_DISABLE_MAINNET": "false",
